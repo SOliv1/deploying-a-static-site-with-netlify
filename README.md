@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/803ba9de-5b08-474d-9f52-0c2b8a0acb82/deploy-status?branch=main)](https://app.netlify.com/sites/deploy-main-netlify-113fef/deploys)
+
 ## Deploying a Static Site with Netlify
 
 Hello! This GitHub repo is intended to be used with the article [Deploying a Static Site with Netlify](https://www.codecademy.com/articles/deploying-a-static-site-with-netlify).
