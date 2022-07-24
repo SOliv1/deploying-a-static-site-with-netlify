@@ -2,8 +2,8 @@
 
 ## Deploying a Static Site with Netlify
 
-Site deployed [here](https://62dd58f20123026bcfafd634--luminous-kheer-113fef.netlify.app/).
-Site deployed with my own edits in patch-1 [here](https://62dd58f20123026bcfafd634--luminous-kheer-113fef.netlify.app/).
+Site deployed [here]().
+Site deployed with my own edits in patch-1 [here](https://netify-deploying-static-site-321.netlify.app/).
 
 
 Hello! This GitHub repo is intended to be used with the article [Deploying a Static Site with Netlify](https://www.codecademy.com/articles/deploying-a-static-site-with-netlify).
